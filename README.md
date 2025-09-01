@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I’m Vadim [👋](https://www.codewars.com/users/VadosLight/badges/micro)
 
-<!--
-**VadosLight/vadoslight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Lead Software Engineer passionate about designing and building systems that are scalable, maintainable, and user-friendly.
+My focus is on clean architecture, thoughtful product design, and turning complex requirements into practical solutions.
 
-Here are some ideas to get you started:
+What I Do
+	•	Architect and implement modern web applications
+	•	Work across the full development lifecycle – from idea to production
+	•	Design APIs, data models, and integrations that last
+	•	Balance technical depth with business value
+	•	Share knowledge and mentor others in software engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beyond Code
+	•	Entrepreneurial mindset – growing projects into products
+	•	Strong interest in design and aesthetics
+	•	Always exploring new approaches to problem solving
