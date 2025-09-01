@@ -1,6 +1,6 @@
-Hi, I’m Vadim [![Codewars Badge](https://www.codewars.com/users/VadosLight/badges/micro)](https://www.codewars.com/users/VadosLight)
+## Hi, I’m Vadim 
 
-I’m a Lead Software Engineer passionate about designing and building systems that are scalable, maintainable, and user-friendly.
+I’m a Lead Software Engineer at Aston passionate about designing and building systems that are scalable, maintainable, and user-friendly.
 My focus is on clean architecture, thoughtful product design.
 
 What I Do
@@ -14,3 +14,7 @@ Beyond Code
 	•	Entrepreneurial mindset – growing projects into products
 	•	Strong interest in design and aesthetics
 	•	Always exploring new approaches to problem solving
+
+Profiles
+---
+CodeWars: [![Codewars Badge](https://www.codewars.com/users/VadosLight/badges/micro)](https://www.codewars.com/users/VadosLight)
