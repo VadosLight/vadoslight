@@ -1,7 +1,7 @@
 Hi, I’m Vadim [![Codewars Badge](https://www.codewars.com/users/VadosLight/badges/micro)](https://www.codewars.com/users/VadosLight)
 
 I’m a Lead Software Engineer passionate about designing and building systems that are scalable, maintainable, and user-friendly.
-My focus is on clean architecture, thoughtful product design, and turning complex requirements into practical solutions.
+My focus is on clean architecture, thoughtful product design.
 
 What I Do
 	•	Architect and implement modern web applications
